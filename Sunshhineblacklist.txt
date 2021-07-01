@@ -1,10 +1,3 @@
-# Title: sunshine.it - pi-hole - Black-List
-# Autor: Walter Wiedenhofer
-# Date: 28. May 2021 16:50 (UTC)
-# Number of unique domains: 82.108
-# Project home page: https://www.sunshine.it
-# E-Mail: info@sunshine.it
-# ===========================================
 
 000.0x1f4b0.com
 0000mps.webpreview.dsl.net
